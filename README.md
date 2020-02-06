@@ -4,7 +4,9 @@ This is the best symblic picture that I think what physics means to me.
 
 # Meaning
 
-1. 世界的模样，取决于你凝视它的目光   - one of my old friend said
+1. 世界的模样，取决于你凝视它的目光   
+
+   -- one of my old friend said
 
 2. >If, in some cataclysm, all of scientific knowledge were to be destroyed, and only
 one sentence passed on to the next generations of creatures, what statement would
@@ -14,7 +16,7 @@ made of atoms—little particles that move around in perpetual motion, attractin
 each other when they are a little distance apart, but repelling upon being squeezed
 into one another.
 
-- one of my old teacher said
+  -- one of my old teacher said
 
 3. Planck constant h and the speed of light in vacuum c are fundament constant.
 
