@@ -1,6 +1,3 @@
-# logo-physics
-This is the best symblic picture that I think what physics means to me.
-
 
 # Meaning
 
@@ -14,12 +11,14 @@ contain the most information in the fewest words? I believe it is the atomic
 hypothesis (or the atomic fact, or whatever you wish to call it) that all things are
 made of atoms—little particles that move around in perpetual motion, attracting
 each other when they are a little distance apart, but repelling upon being squeezed
-into one another.          -- one of my old teacher said
+into one another.          
+
+   -- one of my old teacher said
 
 
 
 3. Planck constant h and the speed of light in vacuum c are fundament constant.
 
-4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020)
+4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020).
 
-5. Eyelash is C, speed of light
+5. Eyelash is C, speed of light.
