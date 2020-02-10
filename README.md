@@ -17,8 +17,12 @@ into one another.
 
 
 
-3. Planck constant h and the speed of light in vacuum c are fundament constant.
+3. Planck constant h and the speed of light in vacuum C are fundament constant.
 
 4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020).
 
 5. Eyelash is C, speed of light.
+
+6. 只有黑白两色，就像钢琴黑白双键。
+
+   [色彩的形成，也是取决于观察者凝视目光的角度。](https://www.reddit.com/r/blackmagicfuckery/comments/6njyl5/benhams_disk_there_is_only_black_and_white_in/)
