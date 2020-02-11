@@ -23,7 +23,7 @@ into one another.
 
 4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020). That's why it is located at [Pupil](https://en.wikipedia.org/wiki/Pupil)
 
-5. Eyelash is C, speed of light.
+5. [Eyelash is C](https://en.wikipedia.org/wiki/Eyelash), speed of light.
 
 6. 只有黑白两色，就像钢琴黑白双键。
 
