@@ -14,6 +14,8 @@ each other when they are a little distance apart, but repelling upon being squee
 into one another.          
 
    -- one of my old teacher said
+   
+   -- one of my favorite journal: https://aip.scitation.org/journal/phf also use atom as their log
 
 
 
