@@ -13,7 +13,7 @@ made of atoms—little particles that move around in perpetual motion, attractin
 each other when they are a little distance apart, but repelling upon being squeezed
 into one another.          
 
-   -- one of my old teacher said
+   -- one of my old teacher said: [1–2 Matter is made of atoms](https://www.feynmanlectures.caltech.edu/I_01.html)
    
    -- one of my favorite journal: https://aip.scitation.org/journal/phf also use atom as their logo.
 
