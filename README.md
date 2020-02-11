@@ -21,7 +21,7 @@ into one another.
 
 3. Planck constant h and the speed of light in vacuum C are fundament constant.
 
-4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020).
+4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020). That's why it is located at [Pupil](https://en.wikipedia.org/wiki/Pupil)
 
 5. Eyelash is C, speed of light.
 
