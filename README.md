@@ -19,7 +19,7 @@ into one another.
 
 
 
-3. Planck constant h and the speed of light in vacuum C are fundament constant.
+3. [Planck constant h](https://en.wikipedia.org/wiki/Planck_constant) and the [speed of light in vacuum C](https://en.wikipedia.org/wiki/Speed_of_light) are fundament constant.
 
 4. Planck constant h is the most advance theory (quntuam mechanics), we human have so far (2020). That's why it is located at [Pupil](https://en.wikipedia.org/wiki/Pupil)
 
