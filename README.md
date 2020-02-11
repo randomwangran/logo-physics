@@ -15,7 +15,7 @@ into one another.
 
    -- one of my old teacher said
    
-   -- one of my favorite journal: https://aip.scitation.org/journal/phf also use atom as their log
+   -- one of my favorite journal: https://aip.scitation.org/journal/phf also use atom as their logo.
 
 
 
