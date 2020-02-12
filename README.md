@@ -28,3 +28,8 @@ into one another.
 6. 只有黑白两色，就像钢琴黑白双键。
 
    [色彩的形成，也是取决于观察者凝视目光的角度。](https://www.reddit.com/r/blackmagicfuckery/comments/6njyl5/benhams_disk_there_is_only_black_and_white_in/)
+
+
+# Why this rep?
+
+- "宇宙是由故事组成的，而不是由原子组成的"
