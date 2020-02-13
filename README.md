@@ -33,3 +33,11 @@ into one another.
 # Why this rep?
 
 - "宇宙是由故事组成的，而不是由原子组成的"
+
+
+# Appreciating:
+
+1. GIMP
+2. https://manytools.org/
+3. Emacs
+ ........
