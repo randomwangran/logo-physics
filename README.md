@@ -37,7 +37,7 @@ into one another.
 
 # Appreciating:
 
-1. GIMP
+1. [GIMP](https://www.gimp.org)
 2. https://manytools.org/
-3. Emacs
+3. [Emacs](https://www.gnu.org/software/emacs/)
  ........
