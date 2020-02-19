@@ -45,5 +45,7 @@ into one another.
 2. https://manytools.org/
 3. [Emacs](https://www.gnu.org/software/emacs/)
 4. [Wiki](https://en.wikipedia.org)
+5. [lan-tool-math](https://www.codecogs.com/eqnedit.php?latex=$$&space;E=\frac{h}{2&space;\pi}&space;\omega&space;$$)
+6. [latex-instant](https://mathpix.com/)
 
  ........
