@@ -4,6 +4,7 @@
 1. 世界的模样，取决于你凝视它的目光   
 
    -- one of my old friend said
+   -- [if we look from the side](https://youtu.be/ovJcsL7vyrk?t=515)
 
 2. >If, in some cataclysm, all of scientific knowledge were to be destroyed, and only
 one sentence passed on to the next generations of creatures, what statement would
