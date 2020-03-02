@@ -43,7 +43,7 @@ into one another.
 # Why this rep?
 
 - "宇宙是由故事组成的，而不是由原子组成的"
-- ["It's what we do with that information that matters."](https://youtu.be/mf5otGNbkuc?t=267)
+- ["It's what we do with that information that matters."](https://youtu.be/mf5otGNbkuc?t=265)
 
 
 # Appreciating:
