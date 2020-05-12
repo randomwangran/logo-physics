@@ -7,7 +7,7 @@
    
    -- [if we look from the side](https://youtu.be/ovJcsL7vyrk?t=515)
    
-   --[everyone has blind spot, that's why we neeed physics](https://io9.gizmodo.com/why-every-human-has-a-blind-spot-and-how-to-find-your-5804116)
+   -- [everyone has blind spot, that's why we neeed physics](https://io9.gizmodo.com/why-every-human-has-a-blind-spot-and-how-to-find-your-5804116)
 
 2. >If, in some cataclysm, all of scientific knowledge were to be destroyed, and only
 one sentence passed on to the next generations of creatures, what statement would
